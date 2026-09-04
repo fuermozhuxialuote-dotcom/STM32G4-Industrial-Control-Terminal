@@ -12,16 +12,16 @@ Date: 2026-09
 ## 1.1 Introduction
 
 This project designs an industrial-grade embedded control terminal based
-on STM32G4 MCU.
+on STM32G4  MCU.
 
 The system integrates:
 
--   24V industrial power input
+-   24V industrial power input(进电)
 -   Power protection circuit
 -   DC/DC power conversion
 -   Analog signal acquisition
 -   RS485 communication
--   CAN communication
+-   CAN communication{(can设计)}
 -   Real-time embedded firmware
 -   PC monitoring software
 
